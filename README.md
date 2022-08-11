@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asta212
-- 👀 I’m interested in football, Manga/Anime, Series/Films
-- 🌱 I’m currently learning HTML/CSS
+- 👀 I’m interested in football, Mangas/Animes, Series/Films
+- 🌱 I’m currently learning HTML/CSS/JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
